@@ -1,0 +1,17 @@
+.bg-image {
+    background-image: url("../img/banner-bg.jpg");
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+.header-margin-top {
+    margin-top: -5rem;
+}
+.bg-gradient {
+    background-image: linear-gradient(to bottom, #6610f2, #006cff, #0080d5, #008687, #198754);
+}
